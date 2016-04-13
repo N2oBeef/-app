@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">lianshou</string>
+    <string name="Login">登录</string>
+    <string name="App_name">吃饭宝</string>
+    <string name="author_email">460955584@qq.com</string>
+    <string name="author_name">beef</string>
+
+
+    <string name="Table">桌台</string>
+    <string name="Dish">菜品</string>
+    <string name="ShopCat">购物车</string>
+    <string name="payForBill_changeTable">结账和转台</string>
+    <string name="Surcharge">订单</string>
+    <string name="Cook">厨房</string>
+
+    <string-array name="books">
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+    </string-array>
+
+</resources>
